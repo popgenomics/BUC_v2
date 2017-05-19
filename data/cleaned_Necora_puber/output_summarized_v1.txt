@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Necora_puber	13844	874.19012	904.74835	0.51161	0.05935	0.48703	0.05929	0.56078	0.11711	-0.07579	-0.13537	-0.06457	-0.12786

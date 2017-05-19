@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Pontia_daplidice	6986	962.92356	861.73467	0.44329	0.07549	0.45049	0.06356	0.42887	0.1345	-0.10032	-0.09619	-0.06007	-0.0986

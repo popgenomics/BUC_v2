@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Crepidula_fornicata	6710	649.24918	626.94049	0.52813	0.049	0.48184	0.05311	0.62071	0.10818	-0.19201	-0.22389	-0.19393	-0.22007

@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Ciona_intestinalis_B	5382	644.8874	435.60508	0.39975	0.03851	0.41956	0.04294	0.36015	0.07241	-0.04246	-0.1039	-0.04501	-0.11803

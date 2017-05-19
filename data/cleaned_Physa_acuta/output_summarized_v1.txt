@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Physa_acuta	7668	576.84859	489.03979	0.44312	0.05968	0.44281	0.04949	0.44373	0.13546	-0.16654	-0.2019	-0.17199	-0.22154

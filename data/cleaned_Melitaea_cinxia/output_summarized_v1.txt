@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Melitaea_cinxia	12466	656.5969	489.76664	0.41122	0.06649	0.42697	0.05977	0.3797	0.12135	-0.03593	-0.14854	-0.00374	-0.17997

@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Lepus_granatensis	4069	544.6058	461.04951	0.49575	0.08259	0.46877	0.06449	0.54972	0.17067	-0.06675	-0.09186	-0.09861	-0.11612

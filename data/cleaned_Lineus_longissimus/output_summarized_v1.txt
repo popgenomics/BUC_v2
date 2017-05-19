@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Lineus_longissimus	15690	779.88375	696.88255	0.475	0.03738	0.45998	0.04625	0.50503	0.08279	-0.10437	-0.13284	-0.10578	-0.13451

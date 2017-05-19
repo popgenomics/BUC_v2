@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Mytilus_galloprovincialis	28134	495.38793	420.23624	0.39229	0.03553	0.42973	0.05255	0.31741	0.05934	-0.13329	-0.1471	-0.15145	-0.18603

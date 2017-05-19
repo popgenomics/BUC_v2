@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Emys_orbicularis	4041	500.96882	347.50192	0.48174	0.06797	0.46602	0.05698	0.5132	0.14362	-0.05456	-0.1244	-0.07436	-0.14331

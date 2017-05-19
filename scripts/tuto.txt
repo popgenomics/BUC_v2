@@ -1,0 +1,42 @@
+
+
+# consensus
+cd /home/croux/Documents/BUC_v2/data
+for i in $(ls); do
+	echo $i
+	cd /home/croux/Documents/BUC_v2/data/${i}
+	/home/croux/Documents/BUC_v2/scripts/2_consensus.py ${i}.cds.alr.0.2.fas
+done
+
+# clean consensus
+cd /home/croux/Documents/BUC_v2/data
+for i in $(ls); do
+	echo $i
+	cd /home/croux/Documents/BUC_v2/data/${i}
+	/home/croux/Documents/BUC_v2/scripts/3_clean_consensus.py consensus.fas 
+done
+
+# compute ENCp
+cd /home/croux/Documents/BUC_v2/data
+for i in $(ls); do
+	echo $i
+	cd /home/croux/Documents/BUC_v2/data/${i}
+	/home/croux/Documents/BUC_v2/scripts/4_ENCp_JohnNovembre.py cleaned_consensus.fas
+done
+
+# output_v1 by R 
+cd /home/croux/Documents/BUC_v2/data
+for i in $(cat list_species.txt); do
+	echo $i
+	cd /home/croux/Documents/BUC_v2/data/cleaned_${i}
+	/home/croux/Documents/BUC_v2/scripts/5_summary.R species=${i} 
+done
+
+# output_v2 by python
+cd /home/croux/Documents/BUC_v2/data
+for i in $(cat list_species.txt); do
+	echo $i
+	cd /home/croux/Documents/BUC_v2/data/cleaned_${i}
+	/home/croux/Documents/BUC_v2/scripts/6_compil_results.py ${i} 
+done
+

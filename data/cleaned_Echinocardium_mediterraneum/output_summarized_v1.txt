@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Echinocardium_mediterraneum	20479	697.11758	687.8524	0.5022	0.04865	0.46922	0.0477	0.56818	0.11444	-0.17179	-0.15262	-0.17375	-0.15175

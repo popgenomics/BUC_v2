@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Reticulitermes_grassei	15557	761.36363	817.66066	0.44827	0.04707	0.4617	0.05257	0.42139	0.08708	-0.11131	-0.13472	-0.11612	-0.1299

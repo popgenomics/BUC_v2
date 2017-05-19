@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Ostrea_edulis	4934	518.19133	418.49335	0.43564	0.04445	0.43468	0.04912	0.43756	0.08426	-0.09143	-0.14596	-0.09669	-0.15597

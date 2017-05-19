@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Halictus_scabiosae	5454	684.06436	521.34476	0.42723	0.06402	0.42972	0.05056	0.42225	0.13977	-0.01787	-0.10905	0.01043	-0.1325

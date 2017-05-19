@@ -1,0 +1,2 @@
+dataset	nLoci	length_avg	length_std	GCtot_avg	GCtot_std	GC12_avg	GC12_std	GC3_avg	GC3_std	r_expression_ENc	r_expression_ENcP	r_nReads_ENc	r_nReads_ENcP
+Parus_caeruleus	3671	549.29256	469.19574	0.48899	0.06993	0.4662	0.05804	0.53458	0.14753	-0.06228	-0.05236	-0.07321	-0.06084
